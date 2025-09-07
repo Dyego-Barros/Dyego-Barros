@@ -65,5 +65,3 @@ Além da experiência técnica, minha passagem de mais de **14 anos pelo serviç
 - 💼 [LinkedIn](https://www.linkedin.com/in/dyego-barros/)   
 - 📧 Email: gabutdd30@outlook.com
 
----
-⭐ Se gostou do meu perfil, não esqueça de dar uma olhada nos meus repositórios!  
