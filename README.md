@@ -1,4 +1,6 @@
-# 👋 Olá, eu sou o Dyego Barros 
+# <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/akshitagupta15june/akshitagupta15june/assets/programmer.gif" width="300" alt="Pessoa programando no notebook"/>
+</p> Dyego Barros 
 
 
 
