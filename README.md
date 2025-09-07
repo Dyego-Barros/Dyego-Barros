@@ -13,20 +13,7 @@ Minha trajetória também inclui sólida experiência em **infraestrutura**, ond
 
 Além da experiência técnica, minha passagem de mais de **14 anos pelo serviço militar** contribuiu fortemente para o meu perfil profissional, desenvolvendo em mim **disciplina e comprometimento**.  
 
-🎓 Sou formado em **Análise e Desenvolvimento de Sistemas** pela **Universidade Cruzeiro do Sul**.  
-
----
-
-## 🛠️ Principais Habilidades Técnicas  
-
-- **Linguagens & Frameworks:** Python (Flask, Django, FastAPI)  
-- **Contêineres & Orquestração:** Docker, Kubernetes (Rancher, OpenShift), Helm  
-- **Sistemas & Infraestrutura:** Linux, MySQL, PostgreSQL, Samba4  
-- **DevOps & Cloud:** CI/CD, GitOps, ArgoCD, AWS, Oracle Cloud Infrastructure (OCI)  
-
----
-
-## 🔧 Ferramentas que utilizo no dia a dia  
+🎓 Sou formado em **Análise e Desenvolvimento de Sistemas** pela **Universidade Cruzeiro do Sul**. 
 
 <p align="left">
   <!-- DevOps (genérico, usei tools) -->
@@ -59,6 +46,21 @@ Além da experiência técnica, minha passagem de mais de **14 anos pelo serviç
   <!-- ArgoCD -->
   <img src="https://argo-cd.readthedocs.io/en/stable/assets/argocd_logo.png" alt="ArgoCD" width="50" height="50"/>
 </p>
+
+---
+
+## 🛠️ Principais Habilidades Técnicas  
+
+- **Linguagens & Frameworks:** Python (Flask, Django, FastAPI)  
+- **Contêineres & Orquestração:** Docker, Kubernetes (Rancher, OpenShift), Helm  
+- **Sistemas & Infraestrutura:** Linux, MySQL, PostgreSQL, Samba4  
+- **DevOps & Cloud:** CI/CD, GitOps, ArgoCD, AWS, Oracle Cloud Infrastructure (OCI)  
+
+---
+
+## 🔧 Ferramentas que utilizo no dia a dia  
+
+
 ---
 
 ## 📊 Estatísticas do GitHub  
