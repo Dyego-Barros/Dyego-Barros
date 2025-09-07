@@ -49,6 +49,9 @@ Além da experiência técnica, minha passagem de mais de **14 anos pelo serviç
   <!-- DevOps (genérico, usei tools) -->
   
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" />
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-plain-wordmark.svg" width="50" height="50"  />
+          
            
  <!-- Argo CD (fix: usa logo 'argo' do SimpleIcons via Shields) --> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original-wordmark.svg" alt="ArgoCD" width="50" height="50" />
