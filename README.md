@@ -39,6 +39,10 @@ Além da experiência técnica, minha passagem de mais de **14 anos pelo serviç
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
    <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <!--Flask-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+    <!--Django-->    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />          
    <!-- Helm -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="50" height="50"/>
   <!-- Terraform -->
@@ -46,11 +50,9 @@ Além da experiência técnica, minha passagem de mais de **14 anos pelo serviç
   <!-- DevOps (genérico, usei tools) -->
   <img src="https://img.shields.io/badge/DevOps-25A162?style=for-the-badge&logo=azuredevops&logoColor=white" alt="DevOps"/>
   <!-- CI/CD -->
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/> 
-  <!-- GitOps -->
-  <img src="https://img.shields.io/badge/GitOps-FF6C37?style=for-the-badge&logo=git&logoColor=white" alt="GitOps"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>   
  <!-- Argo CD (fix: usa logo 'argo' do SimpleIcons via Shields) -->
-  <img src="https://img.shields.io/badge/Argo%20CD-2E9CA6?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
 </p>
 </p>
 
