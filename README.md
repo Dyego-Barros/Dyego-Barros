@@ -1,7 +1,4 @@
-# 👋 Olá, eu sou o Dyego Barros  
-
-Bem-vindo ao meu portfólio profissional!  
-Sou **Analista DevOps** com mais de **10 anos de experiência em TI**, atuando com foco em automação, infraestrutura, desenvolvimento backend e cultura DevOps.  
+# 👋 Olá, eu sou o Dyego Barros 
 
 ---
 
@@ -9,7 +6,7 @@ Sou **Analista DevOps** com mais de **10 anos de experiência em TI**, atuando c
 
 Atualmente atuo como **Analista DevOps**, prestando suporte e sustentação a aplicações em ambientes **Kubernetes**, tanto em clusters gerenciados pelo **Rancher** quanto pelo **OpenShift**.  
 
-Sou um profissional com mais de **10 anos de experiência em TI**, com forte atuação em **automação**, **desenvolvimento backend com Python** e **administração de sistemas Linux**. Já trabalhei com frameworks como **Flask**, **FastAPI** e **Django**, sempre integrando essas soluções com **Docker** e práticas de **DevOps**, o que me permitiu criar ambientes ágeis, escaláveis e altamente automatizados, otimizando processos de desenvolvimento e implantação de software.  
+Sou um profissional com mais de **anos de experiência em TI**, com forte atuação em **automação**, **desenvolvimento backend com Python** e **administração de sistemas Linux**. Já trabalhei com frameworks como **Flask**, **FastAPI** e **Django**, sempre integrando essas soluções com **Docker** e práticas de **DevOps**, o que me permitiu criar ambientes ágeis, escaláveis e altamente automatizados, otimizando processos de desenvolvimento e implantação de software.  
 
 Minha trajetória também inclui sólida experiência em **infraestrutura**, onde implementei servidores web, bancos de dados como **MySQL** e **PostgreSQL**, além de serviços como **Samba4**. Foi nessa área que tive meu primeiro contato com **Docker**, o que abriu caminho para uma imersão mais profunda na cultura DevOps.  
 
@@ -30,8 +27,37 @@ Além da experiência técnica, minha passagem de mais de **14 anos pelo serviç
 
 ## 🔧 Ferramentas que utilizo no dia a dia  
 
-DevOps | Kubernetes | Docker | Linux | CI/CD | Python | Helm | OCI | GitOps | ArgoCD  
+<p align="left">
+  <!-- DevOps (genérico, usei tools) -->
+  <img src="https://img.shields.io/badge/DevOps-25A162?style=for-the-badge&logo=azuredevops&logoColor=white" alt="DevOps"/>
 
+  <!-- Kubernetes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
+
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+
+  <!-- CI/CD -->
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+
+  <!-- Helm -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="50" height="50"/>
+
+  <!-- Oracle Cloud Infrastructure -->
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI"/>
+
+  <!-- GitOps -->
+  <img src="https://img.shields.io/badge/GitOps-FF6C37?style=for-the-badge&logo=git&logoColor=white" alt="GitOps"/>
+
+  <!-- ArgoCD -->
+  <img src="https://argo-cd.readthedocs.io/en/stable/assets/argocd_logo.png" alt="ArgoCD" width="50" height="50"/>
+</p>
 ---
 
 ## 📊 Estatísticas do GitHub  
