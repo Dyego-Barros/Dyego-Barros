@@ -58,10 +58,6 @@ Além da experiência técnica, minha passagem de mais de **14 anos pelo serviç
 
 ---
 
-## 🔧 Ferramentas que utilizo no dia a dia  
-
-
----
 
 ## 📊 Estatísticas do GitHub  
 
@@ -72,8 +68,8 @@ Além da experiência técnica, minha passagem de mais de **14 anos pelo serviç
 
 ## 📫 Contato  
 
-- 💼 [LinkedIn](https://www.linkedin.com) *(adicione seu perfil aqui)*  
-- 📧 Email: *adicione seu email aqui*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/dyego-barros/)   
+- 📧 Email: gabutdd30@outlook.com
 
 ---
 ⭐ Se gostou do meu perfil, não esqueça de dar uma olhada nos meus repositórios!  
