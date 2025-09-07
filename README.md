@@ -26,34 +26,20 @@ Além da experiência técnica, minha passagem de mais de **14 anos pelo serviç
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
    <!-- Helm -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="50" height="50"/>
-
-  
+  <!-- Terraform -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
   <!-- DevOps (genérico, usei tools) -->
   <img src="https://img.shields.io/badge/DevOps-25A162?style=for-the-badge&logo=azuredevops&logoColor=white" alt="DevOps"/>
-
- 
-
- 
-
-
-
   <!-- CI/CD -->
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
-
- 
- 
-
-  <!-- Oracle Cloud Infrastructure -->
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI"/>
-
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/> 
   <!-- GitOps -->
   <img src="https://img.shields.io/badge/GitOps-FF6C37?style=for-the-badge&logo=git&logoColor=white" alt="GitOps"/>
-
-  <!-- ArgoCD -->
-  <img src="https://argo-cd.readthedocs.io/en/stable/assets/argocd_logo.png" alt="ArgoCD" width="50" height="50"/>
+ <!-- Argo CD (fix: usa logo 'argo' do SimpleIcons via Shields) -->
+  <img src="https://img.shields.io/badge/Argo%20CD-2E9CA6?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD"/>
+</p>
 </p>
 
----
+
 
 ## 🛠️ Principais Habilidades Técnicas  
 
