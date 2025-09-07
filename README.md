@@ -14,7 +14,8 @@ Minha trajetória também inclui sólida experiência em **infraestrutura**, ond
 Além da experiência técnica, minha passagem de mais de **14 anos pelo serviço militar** contribuiu fortemente para o meu perfil profissional, desenvolvendo em mim **disciplina e comprometimento**.  
 
 🎓 Sou formado em **Análise e Desenvolvimento de Sistemas** pela **Universidade Cruzeiro do Sul**. 
-# Linguagens e Tecnologias
+
+## Linguagens e Tecnologias
 <p align="left">
    <!-- Kubernetes -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
