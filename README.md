@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Dyego Barros 
 
----
+
 
 ## 🚀 Sobre mim  
 
