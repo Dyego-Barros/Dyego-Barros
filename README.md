@@ -1,13 +1,11 @@
- <img src="https://cdn-icons-png.flaticon.com/512/1995/1995574.png" width="40" alt="Pessoa com notebook"/> Olá, eu sou o Dyego Barros  
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/akshitagupta15june/akshitagupta15june/assets/programmer.gif" width="300" alt="Pessoa programando no notebook"/>
-</p>
+Dyego Barros  
 
 
 
 
-## 🚀 Sobre mim  
+## 🚀 Sobre mim 
+
+**`Analista DevOps`**
 
 Atualmente atuo como **Analista DevOps**, prestando suporte e sustentação a aplicações em ambientes **Kubernetes**, tanto em clusters gerenciados pelo **Rancher** quanto pelo **OpenShift**.  
 
