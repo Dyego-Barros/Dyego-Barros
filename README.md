@@ -40,7 +40,10 @@ Além da experiência técnica, minha passagem de mais de **14 anos pelo serviç
    <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>  <!--Flask-->
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" width="50" height="50" />          
+  
+   <i class="devicon-flask-original-wordmark">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" width="50" height="50" />  
+  </i>
   <!--Django--> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="Django" width="50" height="50" />
    <!-- Helm -->
