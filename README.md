@@ -12,6 +12,22 @@ Além da experiência técnica, minha passagem de mais de **14 anos pelo serviç
 
 🎓 Sou formado em **Análise e Desenvolvimento de Sistemas** pela **Universidade Cruzeiro do Sul**. 
 
+<p align="left">   
+    <a href="https://github.com/Dyego-Barros?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Dyego-Barros?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ## 🤖 Linguagens e Tecnologias
 <p align="left">
