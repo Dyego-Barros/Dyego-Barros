@@ -47,7 +47,9 @@ Além da experiência técnica, minha passagem de mais de **14 anos pelo serviç
   <!-- Terraform -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
   <!-- DevOps (genérico, usei tools) -->
-  <img src="https://img.shields.io/badge/DevOps-25A162?style=for-the-badge&logo=azuredevops&logoColor=white" alt="DevOps"/> 
+  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" />
+           
  <!-- Argo CD (fix: usa logo 'argo' do SimpleIcons via Shields) --> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original-wordmark.svg" alt="ArgoCD" width="50" height="50" />
           
