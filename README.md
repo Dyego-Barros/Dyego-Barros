@@ -1,8 +1,5 @@
 ## 👩🏻‍💻 Dyego Barros  
 
-
-
-
 **`Analista DevOps`**
 
 Atualmente atuo como **Analista DevOps**, prestando suporte e sustentação a aplicações em ambientes **Kubernetes**, tanto em clusters gerenciados pelo **Rancher** quanto pelo **OpenShift**.  
@@ -56,7 +53,3 @@ Além da experiência técnica, minha passagem de mais de **14 anos pelo serviç
 ![Dyego's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyegobarros&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyegobarros&layout=compact&theme=tokyonight)  
 ---
-## 📫 Contato  
-[LinkedIn](https://www.linkedin.com/in/dyego-barros/)   
-- 📧 Email: gabutdd30@outlook.com
-
