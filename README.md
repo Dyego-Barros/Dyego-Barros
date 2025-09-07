@@ -67,8 +67,34 @@ Além da experiência técnica, minha passagem de mais de **14 anos pelo serviç
 - **DevOps & Cloud:** CI/CD, GitOps, ArgoCD, AWS, Oracle Cloud Infrastructure (OCI)  
 
 ---
+
 <br/>
 <br/>
-## 📊 Estatísticas  
-![Dyego's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyegobarros&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyegobarros&layout=compact&theme=tokyonight)  
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Dyego-Barros&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyego-Barros&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+
+
+
+
+
+
+
+
+
