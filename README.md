@@ -7,7 +7,7 @@
 
 Atualmente atuo como **Analista DevOps**, prestando suporte e sustentação a aplicações em ambientes **Kubernetes**, tanto em clusters gerenciados pelo **Rancher** quanto pelo **OpenShift**.  
 
-Sou um profissional com mais de **anos de experiência em TI**, com forte atuação em **automação**, **desenvolvimento backend com Python** e **administração de sistemas Linux**. Já trabalhei com frameworks como **Flask**, **FastAPI** e **Django**, sempre integrando essas soluções com **Docker** e práticas de **DevOps**, o que me permitiu criar ambientes ágeis, escaláveis e altamente automatizados, otimizando processos de desenvolvimento e implantação de software.  
+Sou um profissional com  **anos de experiência em TI**, com forte atuação em **automação**, **desenvolvimento backend com Python** e **administração de sistemas Linux**. Já trabalhei com frameworks como **Flask**, **FastAPI** e **Django**, sempre integrando essas soluções com **Docker** e práticas de **DevOps**, o que me permitiu criar ambientes ágeis, escaláveis e altamente automatizados, otimizando processos de desenvolvimento e implantação de software.  
 
 Minha trajetória também inclui sólida experiência em **infraestrutura**, onde implementei servidores web, bancos de dados como **MySQL** e **PostgreSQL**, além de serviços como **Samba4**. Foi nessa área que tive meu primeiro contato com **Docker**, o que abriu caminho para uma imersão mais profunda na cultura DevOps.  
 
