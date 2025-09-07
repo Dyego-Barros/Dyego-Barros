@@ -57,7 +57,6 @@ Além da experiência técnica, minha passagem de mais de **14 anos pelo serviç
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original-wordmark.svg" alt="ArgoCD" width="50" height="50" />
           
 </p>
-</p>
 
 ## 🛠️ Principais Habilidades Técnicas  
 
@@ -69,7 +68,7 @@ Além da experiência técnica, minha passagem de mais de **14 anos pelo serviç
 ---
 
 <br/>
-<br/>
+
 
 ### 📊 Estatísticas
 
